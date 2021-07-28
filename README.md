@@ -1,5 +1,3 @@
-The code creators are Rawan and Faris.
-
 # Classifier report
 
 ## Model types
