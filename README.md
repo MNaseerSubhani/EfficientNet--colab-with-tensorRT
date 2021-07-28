@@ -114,3 +114,5 @@ Applying threshold now only works on two classes classification. Further work ne
     - take the maximum probability: No further action needed from the user. A confusion matrix will appear
     - edit a threshold: the user will be able to edit the threshold depending on a plot that shows the distribution of the probabilities. Then the
       user can test the modified threshold on the testing dataset. A confusion matrix will appear
+      
+#  Code created by Rawan.
